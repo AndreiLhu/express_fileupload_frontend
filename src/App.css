@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+body {
+    background-color: #ededed;
+}
+.container {
+    text-align: center;
+    color: black;
+}
+form {
+    background-color: white;
+    padding: 30px;
+}
+form .input-group {
+    margin-bottom: 15px;
+    
+}
+
